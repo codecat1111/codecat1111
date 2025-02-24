@@ -86,6 +86,7 @@
 </a>
 </p>
 
+[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/31oddbkrw2tbz7zukrg2cccp4zsm)
 
 ---
 
