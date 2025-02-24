@@ -1,6 +1,10 @@
 <h1 align="center"><b>Hi , I'm Justin Wilson </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=codecat1111&label=Profile%20Views&color=blue&style=for-the-badge" alt="Profile Views">
+</p>
+
+<p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Aspiring+Computer+Science+Professional;Information+Security+Enthusiast;Full-Stack+Developer;AI+Integration+Specialist;Continuous+Learner..">  
   </a>
@@ -45,45 +49,6 @@
 ### **Soft Skills:**
 
 💡 Creativity | 🤝 Team Player | 🔍 Problem Solving | ⏳ Time Management  
-
-<br>
-
-## 🏆 **Experience**
-
-### 🔹 **Information Security Intern | Intertec Systems (Sep 2023 – Dec 2023)**
-- 📊 Developed a **68-page Risk Assessment Report** analyzing 50+ threat events & vulnerabilities  
-- 🔑 Implemented **2FA system using Node.js & Speakeasy** for token-based authentication  
-- 🛡️ Applied **NIST & CIS Controls** for security assessments  
-
-<br>
-
-## 🚀 **Projects**
-
-### **🌐 LocalAI Assistant (Feb 2025 – Present)**  
-- ⚡ Built a **privacy-focused Chrome extension** using **locally hosted AI models** for text analysis, grammar checks, and summarization  
-- 🚀 Integrated **Ollama** for local AI processing, removing external API dependencies  
-- 🖥️ Developed a **modular system** with content scripts, background scripts, and a popup UI  
-
-### **🔎 Aegis HTML Vulnerability Analyzer (Jul 2024 – Aug 2024)**  
-- 🛡️ **Scans HTML for security flaws** (form validation, password fields)  
-- 📄 Generates **detailed vulnerability reports with actionable insights**  
-
-### **📊 Google Wrapped (Sep 2024 – Oct 2024)**  
-- 🔍 **Analyzes Google Search & YouTube history**  
-- 📊 Generates **interactive visualizations** using Flask & JavaScript  
-- 🔗 Integrates **LinkPreview API for metadata extraction**  
-
-<br>
-
-## 🎖️ **Certifications**
-
-🏅 **Oracle Cloud Infrastructure 2024 - Generative AI Certified**  
-🏅 **Python for Beginners (Python 3)**  
-🏅 **Cybersecurity - Python & Web Applications**  
-🏅 **Google Cybersecurity Professional (Ongoing)**  
-🏅 **Cloud Digital Leader (Ongoing)**  
-
-<br>
 
 ## 📊 **GitHub Stats**
 
