@@ -1,10 +1,6 @@
 <h1 align="center"><b>Hi , I'm Justin Wilson </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=codecat1111&label=Profile%20Views&color=blue&style=for-the-badge" alt="Profile Views">
-</p>
-
-<p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Aspiring+Computer+Science+Professional;Information+Security+Enthusiast;Full-Stack+Developer;AI+Integration+Specialist;Continuous+Learner..">  
   </a>
@@ -53,11 +49,29 @@
 ## 📊 **GitHub Stats**
 
 <div align="center">
-  <a href="https://github.com/codecat1111">
-    <img src="https://github-readme-stats.vercel.app/api?username=codecat1111&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=codecat1111&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375" />
-  </a>
+  <!-- Profile Views -->
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=codecat1111&label=Profile%20Views&color=blue&style=for-the-badge" alt="Profile Views">
+  </p>
+
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=codecat1111&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=codecat1111&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"/>
+      </td>
+    </tr>
+  </table>
+
+  <!-- GitHub Streak -->
+  <p>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=codecat1111&theme=tokyonight&hide_border=true" width="450"/>
+  </p>
+
 </div>
+
 
 <br>
 
@@ -71,6 +85,7 @@
   <img src="https://img.shields.io/badge/Gmail-justin.wj2003-red?style=for-the-badge&logo=gmail" />
 </a>
 </p>
+
 
 ---
 
