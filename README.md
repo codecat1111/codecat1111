@@ -8,11 +8,7 @@
 
 <br>
 
-## <picture><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="50px"></picture> **About Me**
-
-<picture>
-  <img align="right" src="https://github.com/codecat1111/codecat1111/raw/main/1724304216249.jpg" width="250px">
-</picture>
+## <picture><img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" width="50px"></picture> **About Me**
 
 - 🎓 **B.Tech in Computer Science (Specialization: Information Security)** from Vellore Institute of Technology  
 - 🔐 Passionate about **Cybersecurity, AI, and Secure Web Development**  
