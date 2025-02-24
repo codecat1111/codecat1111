@@ -11,7 +11,7 @@
 ## <picture><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="50px"></picture> **About Me**
 
 <picture>
-  <img align="right" src="" width="250px">
+  <img align="right" src="https://github.com/codecat1111/codecat1111/raw/main/1724304216249.jpg" width="250px">
 </picture>
 
 - 🎓 **B.Tech in Computer Science (Specialization: Information Security)** from Vellore Institute of Technology  
