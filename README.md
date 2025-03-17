@@ -1,12 +1,3 @@
-<h1 align="center"><b>Hi , I'm Justin Wilson </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Aspiring+Computer+Science+Professional;Information+Security+Enthusiast;Full-Stack+Developer;Continuous+Learner..">  
-  </a>
-</p>
-
-<br>
 
 ## <picture><img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" width="50px"></picture> **About Me**
 
