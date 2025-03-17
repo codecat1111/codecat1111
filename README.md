@@ -3,7 +3,7 @@
 
 - 🎓 **B.Tech in Computer Science (Specialization: Information Security)** from Vellore Institute of Technology  
 - 🔐 Passionate about **Cybersecurity, AI, and Secure Web Development**  
-- 🌱 Currently working on **Local AI Integration & Vulnerability Analysis**  
+- 🌱 Currently experimenting with **Gemini 2.0 Flash native image generation & OpenAI Whisper Models**  
 - 👨‍💻 Open to **collaborations, internships, and job opportunities**  
 - 📫 Contact me at **justin.wj2003@gmail.com**  
 
