@@ -69,11 +69,14 @@
 ## 🤝 **Let's Connect!**
 
 <p align="left">
-<a href="https://linkedin.com/in/justin-wilson" target="_blank">
+<a href="https://linkedin.com/in/justin-wilson-996aab21b" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-JustinWilson-blue?style=for-the-badge&logo=linkedin" />
 </a>
 <a href="mailto:justin.wj2003@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-justin.wj2003-red?style=for-the-badge&logo=gmail" />
+  <img src="https://img.shields.io/badge/Gmail-JustinWilson-red?style=for-the-badge&logo=gmail" />
+</a>
+<a href="https://x.com/JustinW45940958" target="_blank">
+  <img src="https://img.shields.io/badge/X-@JustinWilson-black?style=for-the-badge&logo=x&logoColor=white" />
 </a>
 </p>
 
