@@ -1,13 +1,10 @@
 
 ## <picture><img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" width="50px"></picture> **About Me**
 
-- 🎓 **B.Tech in Computer Science (Specialization: Information Security)** from Vellore Institute of Technology  
 - 🔐 Passionate about **Cybersecurity, AI, and Secure Web Development**  
 - 🌱 Currently experimenting with **Gemini 2.0 Flash native image generation & OpenAI Whisper Models**  
 - 👨‍💻 Open to **collaborations, internships, and job opportunities**  
 - 📫 Contact me at **justin.wj2003@gmail.com**  
-
-
 <br><br>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> **Skills**
@@ -24,18 +21,6 @@
 ![Node.js](https://img.shields.io/badge/Node.js%20-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask%20-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker%20-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-
-### **Concepts:**
-
-☑️ Operating Systems | ☑️ Data Structures & Algorithms | ☑️ Computer Networks | ☑️ Cybersecurity  
-
-### **Cloud & DevOps:**
-
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-
-### **Soft Skills:**
-
-💡 Creativity | 🤝 Team Player | 🔍 Problem Solving | ⏳ Time Management  
 
 ## 📊 **GitHub Stats**
 
@@ -56,10 +41,10 @@
     </tr>
   </table>
 
-  <!-- GitHub Streak -->
+  <!-- GitHub Streak 
   <p>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=codecat1111&theme=tokyonight&hide_border=true" width="450"/>
-  </p>
+  </p> -->
 
 </div>
 
@@ -80,7 +65,7 @@
 </a>
 </p>
 
-[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/31oddbkrw2tbz7zukrg2cccp4zsm)
+
 
 ---
 
