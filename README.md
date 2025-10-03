@@ -2,7 +2,8 @@
 ## <picture><img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" width="50px"></picture> **About Me**
 
 - Passionate about **Cybersecurity, AI, and Secure Web Development**  
-- Currently experimenting with **Azure AI Foundry, n8n and pgvector databases**  
+- Currently experimenting with **Azure AI Foundry, n8n and pgvector databases**
+- Working towards the **Azure AI Engineer Associate (AI-102)** Certification.
 - Open to **collaborations, internships, and job opportunities**  
 - Contact me at **justin.wj2003@gmail.com**  
 <br><br>
