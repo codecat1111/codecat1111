@@ -6,17 +6,16 @@ on:
   workflow_dispatch:
 
 permissions:
-  contents: write # This fixes the '128 Error' by allowing the bot to save files
+  contents: write
 
 jobs:
   build:
     runs-on: ubuntu-latest
     env:
-      FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true # Silences the Node.js deprecation warning
+      FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true 
     steps:
       - uses: actions/checkout@v4
 
-      # STEP 1: Create the Stats Card
       - name: Generate stats card
         uses: readme-tools/github-readme-stats-action@v1
         with:
@@ -25,16 +24,14 @@ jobs:
           path: profile/stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
-      # STEP 2: Create the Languages Card (THIS WAS MISSING)
       - name: Generate languages card
         uses: readme-tools/github-readme-stats-action@v1
         with:
-          card: languages
+          card: top-langs # Fixed from 'languages'
           options: username=${{ github.repository_owner }}&theme=tokyonight&layout=compact
           path: profile/langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
-      # STEP 3: Save both files to your repo
       - name: Commit cards
         run: |
           git config user.name "github-actions"
