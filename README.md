@@ -24,6 +24,7 @@
 ![Docker](https://img.shields.io/badge/Docker%20-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 ## 📊 **GitHub Stats**
+
 <div align="center">
   <p>
     <img src="https://komarev.com/ghpvc/?username=codecat1111&label=Profile%20Views&color=blue&style=for-the-badge" alt="Profile Views">
@@ -32,10 +33,10 @@
   <table>
     <tr>
       <td>
-        <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=codecat1111&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" width="450"/>
+        <img src="./profile/stats.svg" width="450" alt="GitHub Stats"/>
       </td>
       <td>
-        <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs?username=codecat1111&show_icons=true&theme=tokyonight&layout=compact" width="375"/>
+        <img src="./profile/langs.svg" width="375" alt="Top Languages"/>
       </td>
     </tr>
   </table>
