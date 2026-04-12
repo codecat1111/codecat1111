@@ -24,9 +24,7 @@
 ![Docker](https://img.shields.io/badge/Docker%20-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 ## 📊 **GitHub Stats**
-
 <div align="center">
-  <!-- Profile Views -->
   <p>
     <img src="https://komarev.com/ghpvc/?username=codecat1111&label=Profile%20Views&color=blue&style=for-the-badge" alt="Profile Views">
   </p>
@@ -34,19 +32,13 @@
   <table>
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=codecat1111&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
+        <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=codecat1111&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" width="450"/>
       </td>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=codecat1111&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"/>
+        <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs?username=codecat1111&show_icons=true&theme=tokyonight&layout=compact" width="375"/>
       </td>
     </tr>
   </table>
-
-  <!-- GitHub Streak 
-  <p>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=codecat1111&theme=tokyonight&hide_border=true" width="450"/>
-  </p> -->
-
 </div>
 
 
