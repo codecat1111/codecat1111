@@ -3,7 +3,7 @@
 
 - Passionate about **Cybersecurity, AI, and Secure Web Development**  
 - Currently experimenting with **Azure AI Foundry, n8n and pgvector databases**
-- Working towards the **Azure AI Engineer Associate (AI-102)** and **Security+** Certification.
+- **Azure AI-103** certified.
 - Open to **collaborations, internships, and job opportunities**  
 - Contact me at **justin.wj2003@gmail.com**  
 <br><br>
@@ -63,4 +63,4 @@
 
 ---
 
-_Last Edited on: August 15, 2025_
+_Last Edited on: September 10, 2026_
